@@ -45,6 +45,7 @@ Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop wi
 
 ### Databases and Administration
 
+- [json-server](json-server)
 - [pgAdmin](pgadmin4)
 - [mongoDB](mongoDB)
 - [postgresSQL](postgres)
@@ -77,15 +78,20 @@ Awesome DeFi apps you can deploy on Akash
 
 ### Benchmarking
 
-- [Speedtest by Ookla](speedtest-cli)
 - [Fast.com by Netflix](fast)
+- [Flexible IO Tester](fio)
 - [Geekbench 5](geekbench)
-- [Speedtest Tracker](speedtest-tracker)
 - [LibreSpeed](librespeed)
+- [MonkeyTest](monkeytest)
 - [OpenSpeedTest](openspeedtest)
+- [Phoronix](phoronix)
+- [Serverbench](serverbench)
+- [Speedtest by Ookla](speedtest-cli)
+- [Speedtest Tracker](speedtest-tracker)
 
 ### Blockchain
 
+- [Prysm Beacon](prysm-beacon)
 - [Substrate Node](substrate-node)
 - [Vidulum](vidulum)
 
@@ -120,6 +126,7 @@ Awesome DeFi apps you can deploy on Akash
 - [Caddy](caddy)
 - [Grafana](grafana)
 - [IPFS](ipfs)
+- [Flame](flame)
 
 ### Machine Learning
 
@@ -137,13 +144,27 @@ Awesome DeFi apps you can deploy on Akash
 
 ### Mining
 
-- [xmrig](monero)
 - [Chia Bladebit](chia-bladebit)
 - [Chia Bladebit Disk](chia-bladebit-disk)
 - [Chia Madmax](chia-madmax)
+- [Honeygain](honeygain)
+- [IPRoyal Pawns](iproyal-pawns)
+- [Iron Fish](iron-fish)
 - [MoneroOcean / auto-switching CPU miner with XMR payout](moneroocean)
-- [Raptoreum](raptoreum-miner)
+- [PacketStream](packetstream)
+- [Peer2Profit](peer2profit)
 - [pkt.cash](pkt-miner)
+- [RainbowMiner](rainbowminer)
+- [Raptoreum](raptoreum-miner)
+- [Traffmonetizer](traffmonetizer)
+- [xmrig](xmrig)
+
+### Mining Pools
+
+- [monero-pool by jtgrassie](monero-pool)
+- [Meowcoin Pool](kawpow-pool-meowcoin)
+- [Neoxa Pool](kawpow-pool-neoxa)
+- [Ravencoin Pool](kawpow-pool-ravencoin)
 
 ### Peer-to-peer File Sharing
 
@@ -158,24 +179,29 @@ Awesome DeFi apps you can deploy on Akash
 ### Social
 
 - [Discourse](discourse)
+- [TeamSpeak](teamspeak)
 
 ### Tools
 
-- [DEGO Stats](dego-stats)
+- [thirdweb](thirdweb)
 - [authsteem](authsteem)
+- [Code-Server](code-server)
+- [CodiMD](CodiMD)
+- [dart-hello](dart)
+- [DEGO Stats](dego-stats)
+- [Folding@home](folding-at-home)
+- [Hashicorp Vault](hashicorp-vault)
+- [KnowYourDeFi](knowyourdefi)
+- [Matomo](matomo)
 - [microbox](microbox)
 - [Mintr](mintr)
-- [Folding@home](folding-at-home)
+- [Nextcloud](nextcloud)
 - [owncloud](owncloud)
-- [Quill editor](quill-editor)
 - [Periodic Table Creator](Periodic-Table-Creator)
-- [dart-hello](dart)
-- [Matomo](matomo)
+- [Quill editor](quill-editor)
+- [Uptime Kuma](uptime-kuma)
 - [Zammad](zammad)
-- [CodiMD](CodiMD)
-- [KnowYourDeFi](knowyourdefi)
-- [Code-Server](code-server)
-- [Hashicorp Vault](hashicorp-vault)
+- [Budibase](budibase)
 
 ### Network
 
@@ -193,3 +219,7 @@ Awesome DeFi apps you can deploy on Akash
 
 - [MyetherWallet](MyetherWallet)
 - [tronwallet](tronwallet)
+
+### Web Frameworks
+
+- [NextJS](nextjs)
